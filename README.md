@@ -259,11 +259,6 @@ For more information on the project, filing bug reports and feature requests, an
 
 ---
 
-## License
-
-See [LICENSE][stdlib-license].
-
-
 ## Copyright
 
 Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
@@ -309,8 +304,6 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [esm-url]: https://github.com/stdlib-js/ndarray-base-binary-reduce-strided1d/tree/esm
 [esm-readme]: https://github.com/stdlib-js/ndarray-base-binary-reduce-strided1d/blob/esm/README.md
 [branches-url]: https://github.com/stdlib-js/ndarray-base-binary-reduce-strided1d/blob/main/branches.md
-
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/ndarray-base-binary-reduce-strided1d/main/LICENSE
 
 </section>
 

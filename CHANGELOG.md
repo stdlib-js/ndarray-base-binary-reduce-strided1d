@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-15)
+## Unreleased (2025-09-18)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`33dc96a`](https://github.com/stdlib-js/stdlib/commit/33dc96a398f87940f6c69fb2c70409bc5715398d) - **docs:** update type _(by Athan Reines)_
 -   [`c42febe`](https://github.com/stdlib-js/stdlib/commit/c42febe4bb7062771a68d869eff02b40e3644f6d) - **feat:** add `ndarray/base/binary-reduce-strided1d` [(#7813)](https://github.com/stdlib-js/stdlib/pull/7813) _(by Gururaj Gurram, Athan Reines)_
 
 </details>
