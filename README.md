@@ -48,13 +48,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import binaryReduceStrided1d from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-binary-reduce-strided1d@deno/mod.js';
+import binaryReduceStrided1d from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-binary-reduce-strided1d@v0.1.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-binary-reduce-strided1d@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-binary-reduce-strided1d@v0.1.0-deno/mod.js';
 ```
 
 #### binaryReduceStrided1d( fcn, arrays, dims\[, options] )
@@ -179,7 +179,7 @@ import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-
 import zeros from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zeros@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to-array@deno/mod.js';
 import gdot from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-ndarray-gdot@deno/mod.js';
-import binaryReduceStrided1d from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-binary-reduce-strided1d@deno/mod.js';
+import binaryReduceStrided1d from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-binary-reduce-strided1d@v0.1.0-deno/mod.js';
 
 var N = 10;
 var x = {
