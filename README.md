@@ -50,6 +50,11 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
+binaryReduceStrided1d = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-binary-reduce-strided1d@umd/browser.js' )
+```
+The previous example will load the latest bundled code from the umd branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-base-binary-reduce-strided1d/tags). For example,
+
+```javascript
 binaryReduceStrided1d = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-binary-reduce-strided1d@v0.1.1-umd/browser.js' )
 ```
 
@@ -62,7 +67,7 @@ var binaryReduceStrided1d = require( 'path/to/vendor/umd/ndarray-base-binary-red
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-binary-reduce-strided1d@v0.1.1-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-binary-reduce-strided1d@umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -200,7 +205,7 @@ Each provided ndarray should be an object with the following properties:
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zeros@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to-array@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-ndarray-gdot@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-binary-reduce-strided1d@v0.1.1-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-binary-reduce-strided1d@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
