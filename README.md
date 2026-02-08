@@ -48,13 +48,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import binaryReduceStrided1d from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-binary-reduce-strided1d@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-base-binary-reduce-strided1d/tags). For example,
+
+```javascript
 import binaryReduceStrided1d from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-binary-reduce-strided1d@v0.1.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-binary-reduce-strided1d@v0.1.1-esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-binary-reduce-strided1d@esm/index.mjs';
 ```
 
 #### binaryReduceStrided1d( fcn, arrays, dims\[, options] )
@@ -184,7 +189,7 @@ import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-
 import zeros from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zeros@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to-array@esm/index.mjs';
 import gdot from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-ndarray-gdot@esm/index.mjs';
-import binaryReduceStrided1d from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-binary-reduce-strided1d@v0.1.1-esm/index.mjs';
+import binaryReduceStrided1d from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-binary-reduce-strided1d@esm/index.mjs';
 
 var N = 10;
 var x = {
