@@ -48,6 +48,7 @@
     "@stdlib/ndarray-base-assign": "^0.2.1",
     "@stdlib/ndarray-base-binary-loop-interchange-order": "^0.2.4",
     "@stdlib/ndarray-base-binary-tiling-block-size": "^0.2.3",
+    "@stdlib/ndarray-base-descriptor": "github:stdlib-js/ndarray-base-descriptor#main",
     "@stdlib/ndarray-base-empty-like": "^0.3.1",
     "@stdlib/ndarray-base-iteration-order": "^0.2.3",
     "@stdlib/ndarray-base-minmax-view-buffer-index": "^0.2.3",
