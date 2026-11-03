@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-04)
+## Unreleased (2026-11-03)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`897b63e`](https://github.com/stdlib-js/stdlib/commit/897b63e264ce221ec0afd71c2c137dc2442f4588) - **refactor:** replace explicit `for` loop _(by Athan Reines)_
 -   [`1fb7122`](https://github.com/stdlib-js/stdlib/commit/1fb712227d209a2190b44a268e9e9e1465020fdb) - **refactor:** use dedicated descriptor utility _(by Athan Reines)_
 -   [`9457f9f`](https://github.com/stdlib-js/stdlib/commit/9457f9f060948f55ed3355c649a456d2267fd8b6) - **refactor:** add support for ancillary ndarray arguments having trailing dimensions _(by Athan Reines)_
 
